@@ -1,6 +1,6 @@
 {
   "name": "mocharallel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple helper which adds parallel capabilities to mocha",
   "main": "lib/index.js",
   "bin": {
